@@ -4,6 +4,13 @@
 #
 #  Set image on fan sensors to show state.
 #
+#  Appdaemon.yaml file
+#  fan_icon:
+#    class: fan_icon
+#    module: fan_icon
+#    img_low: "/local/fan_green.jpg"
+#    img_medium: "/local/fan_green.jpg"
+#    img_high: "/local/fan_green.jpg"
 #######################################################
 import appdaemon.appapi as appapi
                
